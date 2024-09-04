@@ -24,7 +24,7 @@
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: baseline;
-	align-content: stretch;
+	align-content: flex-start;
     box-shadow: 15px;
 }
 .navproject {
@@ -36,9 +36,9 @@
 }
 
 .videoDescription {
-    text-align: center;
+
     width: 500px;
-    height: 5%;
+
 }
 
 
