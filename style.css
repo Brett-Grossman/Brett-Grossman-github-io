@@ -52,9 +52,9 @@
 
 @media (min-width: 1000px) {
     .projectcontainer {
-        flex-basis: 33.3333%;
+        flex-basis: 50%;
         flex-grow: 0;
-        max-width: 33.3333%;
+        max-width: 50%;
     }
 }
 
