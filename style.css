@@ -9,7 +9,7 @@
 
 .subcontainer {
     background-color: rgb(255, 255, 255);
-
+    
     border-color: black;
     border-width: 1px;
     border-style: solid;
@@ -41,9 +41,13 @@
 
 }
 
-
-
-/* Video styling */
 .video {
     width: 600px;
+}
+@media (min-width: 1000px) {.projectcontainer {
+    flex-basis: 33.3333%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    max-width: 33.3333%;
+    }
 }
