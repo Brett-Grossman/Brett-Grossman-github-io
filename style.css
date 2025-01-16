@@ -4,6 +4,13 @@
     width: 100%;
 }
 
+.whocontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin: auto;
+}
 .subcontainer {
     background-color: #fff;
     border: 1px solid black; /* Combine border properties */
