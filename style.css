@@ -45,6 +45,8 @@
     width: 600px;
 }
 @media (min-width: 1000px) {.projectcontainer {
+    border: 1px;
+    border-color: black;
     flex-basis: 33.3333%;
     -webkit-box-flex: 0;
     flex-grow: 0;
