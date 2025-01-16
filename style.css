@@ -4,16 +4,6 @@
     width: 100%;
 }
 
-.whocontainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    gap: 2rem;
-    margin: auto;
-    width: 75%;
-    border: solid black 1px;
-}
 .subcontainer {
     background-color: #fff;
     border: 1px solid black; /* Combine border properties */
@@ -26,6 +16,17 @@
     gap: 20px;
     justify-content: center;
     align-items: baseline;
+}
+
+.whocontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+    margin: auto;
+    width: 75%;
+    border: solid black 1px;
 }
 
 .navproject {
