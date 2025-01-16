@@ -48,7 +48,6 @@
     width: 100%;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 15px;
-    height: 100%;
     flex: 1 1 calc(50% - 40px); 
     max-width: calc(50% - 40px); 
     border: 1px solid black;
