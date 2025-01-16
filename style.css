@@ -48,6 +48,17 @@
     margin: 10px;
     width: 100%;
     text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 15px;
+    height: 100%;
+}
+.video{
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 12px;
 }
 
 @media (min-width: 1000px) {
